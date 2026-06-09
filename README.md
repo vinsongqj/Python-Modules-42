@@ -85,4 +85,4 @@ In Milestone 2 of the new Common Core of 42, we were tasked with completing 11 p
 - Decorators
 - Lexical scoping
 
-*Please note that some of these modules are outdated as many changes have been made to the project requirements since their completion*
+*Please note that some of these modules are outdated as many changes have been made to the project requirements since their completion.*
